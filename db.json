@@ -1,5 +1,5 @@
 {
-  "tabela de produtos": [
+  "tabela": [
     { "id": 1, "titulo": "Máquina de lavar Samsung", "preco": "R$2,100", "codigo": "MQLS" },
     { "id": 2, "titulo": "Air Jordan 1", "preco": "R$100", "codigo": "AJ1" },
     { "id": 3, "titulo": "Água Bona-Fonte", "preco": "R$5", "codigo": "ABF" },
